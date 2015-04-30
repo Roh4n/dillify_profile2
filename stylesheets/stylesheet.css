@@ -214,10 +214,10 @@ a {
 	float: left;
 	left:0px;
 	display: block;
-	width: 1366px;
+	width: 100%;
 	padding-left:15px;
 	bottom: 0;
-    background:  #7FCA9F;
+    background:  #08298A;
     height: 150px;
     font-family: 'Open Sans', sans-serif;
     color: #FFFFFF;
