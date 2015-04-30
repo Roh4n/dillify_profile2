@@ -211,6 +211,7 @@ a {
   border: 0; }
   
 #footer {
+	float: left;
 	left:0px;
 	display: block;
 	width: 1366px;
