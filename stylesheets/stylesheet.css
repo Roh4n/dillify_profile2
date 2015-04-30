@@ -14,14 +14,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-    
-    #it{
-    background-image:url(https://cloud.githubusercontent.com/assets/9267530/7412594/f74faffe-ef61-11e4-9b29-1bc74c79b1f5.png);
-    font-size:0;
-    width:50px;
-    height:50px;
-}
-
+   
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -217,7 +210,8 @@ a {
 	width: 100%;
 	padding-left:15px;
 	bottom: 0;
-    background:  #08298A;
+    background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957); 
     height: 150px;
     font-family: 'Open Sans', sans-serif;
     color: #FFFFFF;
