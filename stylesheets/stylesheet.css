@@ -14,6 +14,13 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
+    
+    #it{
+    background-image:url(https://cloud.githubusercontent.com/assets/9267530/7412594/f74faffe-ef61-11e4-9b29-1bc74c79b1f5.png);
+    font-size:0;
+    width:50px;
+    height:50px;
+}
 
 .btn {
   display: inline-block;
